@@ -25,7 +25,7 @@ git clone https://github.com/maneeshmkp/Real-Time-Weather-Monitoring-using-Next.
 cd Real-Time-Weather-Monitoring-using-Next.js
 
 
-2. Install dependencies:
+## 2. Install dependencies:
 npm install
 
 
